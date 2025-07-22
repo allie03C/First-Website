@@ -168,8 +168,12 @@ footer {
     margin-bottom: 16px;
 }
 
-.footer__copyright {
+.footer__copyright, .home__tag {
     font-size: x-small;
+}
+
+.home__tag {
+  margin-top: 16px;
 }
 
 .footer__tags {
