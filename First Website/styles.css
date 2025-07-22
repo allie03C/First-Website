@@ -179,3 +179,10 @@ footer {
 .footer__tag {
     padding: 0 16px;
 }
+
+
+@media (max-width: 728px) {
+    .row {
+        flex-direction: column;
+    }
+}
